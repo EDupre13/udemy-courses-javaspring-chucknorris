@@ -1,5 +1,6 @@
 package frisky51.chuck.norris.jokes.chucknorrisjokes;
 
+import frisky51.chuck.norris.jokes.chucknorrisjokes.examplebeans.FakeDataSourse;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ImportResource;
